@@ -39,11 +39,12 @@ Frameworks - PyTorch, TensorFlow
 Models - ResNet, CNN, YOLOv8
 Estimated Cost - $0
 
-
-| Header 1 | Header 2 | Header 3 |
+**Risk & Mitigation Table**
+| Risk | Probability | Mitigation |
 |---|---|---|
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
+| Not Enough Data | High | Use Roboflow dataset |
+| Low Accuracy | Medium | Add augmentation or bigger model |
+| Low Speed | High | Use faster model like YOLOv8 |
 
 
 
