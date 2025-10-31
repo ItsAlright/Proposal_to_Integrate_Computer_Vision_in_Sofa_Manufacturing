@@ -24,6 +24,26 @@ This data will be used to detect and differentiate perfect frames/fabric, and de
 Due to the nature of this training, the data needs to be labelled so that we can quantify how many the model got right and wrong and improve on that. The data also needs to be cleaned to make it easier to track.
 
 **Week-by-Week Plan**
+| Week | Task | Milestone |
+|---|---|---|
+| Week 10 |  Get dataset, set up environment | Dataset ready |
+| Week 11 | Train or fine-tune model | Model working |
+| Week 11 | Test and improve | Good accuracy |
+| Week 12 | Create demo/video | Demo ready |
+| Week 13 | Final testing/documentation | Everything done |
+| Week 14 | Present project | Presentation day |
+
+**Resources Needed**
+Compute - Colab, Kaggle
+Frameworks - PyTorch, TensorFlow
+Models - ResNet, CNN, YOLOv8
+Estimated Cost - $0
+
+
+| Header 1 | Header 2 | Header 3 |
+|---|---|---|
+| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
+| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
 
 
 
