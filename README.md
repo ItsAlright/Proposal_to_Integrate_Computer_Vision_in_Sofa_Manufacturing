@@ -17,7 +17,14 @@ Models like ResNet or CNNs are good models to use due to their high-accuracy and
 TensorFlow and PyTorch are good frameworks for the purposes of detecting defects model.
 Since the model needs to detect defects big and small, it needs to dedicate time to it, which is why models like ResNet and CNN are my preferred models. However, for the framework, popular frameworks like TensorFlow and Pytorch can work just fine.
 
-**Dataset:**
+**Dataset Plan:**
+There will be two groups of data. One for fabric defects, and one for frame defects. The source of the data can be a combination of fabric/frame defects and perfections from a public dataset, like Kaggle.
+The size will generally be around 1000-2000, not too small to limit the model’s knowledge on defect detection, but not to big as to take away processing power from the already power-intensive model.
+This data will be used to detect and differentiate perfect frames/fabric, and defective frames/fabric.
+Due to the nature of this training, the data needs to be labelled so that we can quantify how many the model got right and wrong and improve on that. The data also needs to be cleaned to make it easier to track.
+
+**Week-by-Week Plan**
+
 
 
 
