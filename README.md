@@ -1,7 +1,7 @@
 # Proposal_to_Integrate_Computer_Vision_in_Sofa_Manufacturing
 
-Proposal to Integrate Computer Vision in Sofa Manufacturing
-
+**Proposal to Integrate Computer Vision in Sofa Manufacturing**
+By: Osemudia Ogedengbe, Yahmeania Powell
 
 **The Problem:**
 The sofas are often in low quality and are of inconsistent quality between each other. 
